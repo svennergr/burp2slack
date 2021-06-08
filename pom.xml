@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>Burp2Slack</artifactId>
     <groupId>com.bitwis3.burp2slack</groupId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Burp to Slack Extension</description>
     <build>
         <sourceDirectory>src</sourceDirectory>
